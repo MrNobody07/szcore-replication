@@ -1,0 +1,9 @@
+numpy
+pandas
+pyarrow
+pyedflib
+resampy
+termcolor
+scikit-learn
+matplotlib 
+pybids
